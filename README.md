@@ -40,3 +40,5 @@ python manage.py makemigrations fastrunner fastuser
 python manage.py migrate fastrunner
 python manage.py migrate fastuser
 
+123
+
