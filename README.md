@@ -40,14 +40,3 @@ python manage.py makemigrations fastrunner fastuser
 python manage.py migrate fastrunner
 python manage.py migrate fastuser
 
-```
-
-## 在线体验地址
--------------
-[FasterRunner 接口自动化测试平台](http://39.108.239.78:8082/#/fastrunner/register)
-
-## FasterRunner 微信群
-![扫码加入](https://github.com/yinquanwang/FasterRunner/blob/master/images/Wechat.jpg)<br>
-
-
-
